@@ -1,0 +1,4 @@
+venv/
+logs/
+ANIME_RECOMMENDER_SYSTEM.egg-info/
+.env
